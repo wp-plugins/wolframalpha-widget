@@ -3,6 +3,7 @@ Contributors: wolframalpha
 Tags: 
 Requires at least: 2.2
 Tested up to: 2.9.2
+Stable tag: trunk
 
 Embed live, interactive computational knowledge into your WordPress site with the Wolfram|Alpha Widget plugin.
 
