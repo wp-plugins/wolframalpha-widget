@@ -16,19 +16,19 @@ With the Wolfram|Alpha Widget plugin you can embed live, interactive computation
 
 == Installation ==
 
-1. Download the Wolfram|Alpha plugin zip file
-1. Go to the Word Press dashboard and choose the 'Add new' option under 'Plugins'.
-1. Click 'Browse' and locate the wolframalpha_wordpress_plugin.zip file downloaded previously.
-1. Click 'Activate Plugin' on the page that follows.
+1. Download the Wolfram|Alpha Widget plugin.
+1. Go to the WordPress dashboard and choose the "Add new" option under "Plugins".
+1. Click "Browse" and locate the wolframalpha_wordpress_plugin.zip file downloaded in Step 1.
+1. Click "Activate Plugin" on the page that follows.
 1. To add the plugin to your sidebar, choose the 'Widgets' option under 'Appearance'. Click and drag the Wolfram|Alpha widget to your sidebar. 
 1. Fill in the id and num fields with values from the publish page or the preview page.
 
 
 == Frequently Asked Questions ==
 
-= What if I have a version of WordPress prior to 2.2? =
+= What if my version of WordPress is below 2.2? =
 
-You can download a plugin that will allow you to add WordPress widgets to your wordpress blog from [http://automattic.com/code/widgets/][Automattic]
+You can download a plugin that will allow you to add WordPress widgets to your wordpress blog from [Automattic](http://automattic.com/code/widgets/)
 
 
 == Screenshots ==
@@ -37,4 +37,4 @@ You can download a plugin that will allow you to add WordPress widgets to your w
 == Changelog ==
 
 = 1.0 =
-* First Version
+* First version
