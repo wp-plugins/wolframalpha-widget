@@ -11,7 +11,7 @@ Embed live, interactive computational knowledge into your WordPress site with th
 
 With the Wolfram|Alpha Widget plugin you can embed live, interactive computational knowledge directly into your WordPress site.
 
-NOTE: The Wolfram|Alpha Widget Builder has not yet been released. While it is in testing, you must have information about a widget from its builder before you can use this plugin to run it. To be notified when the Widget Builder is released and this restriction is lifted, [sign up here](http://products.wolframalpha.com/api/).
+http://developer.wolframalpha.com/widgets/
 
 == Installation ==
 
@@ -20,7 +20,7 @@ NOTE: The Wolfram|Alpha Widget Builder has not yet been released. While it is in
 1. Click "Browse" and locate the wolframalpha-widget.zip file downloaded in Step 1.
 1. Click "Activate Plugin" on the page that follows.
 1. To add the plugin to your sidebar, choose the "Widgets" option under "Appearance", and drag the Wolfram|Alpha widget to your sidebar. 
-1. Fill in the "id" and "num" fields with values from the "Publish" page or "Preview" page.
+1. Fill in the "id" field with the value from the gallery view page.
 
 == Frequently Asked Questions ==
 
