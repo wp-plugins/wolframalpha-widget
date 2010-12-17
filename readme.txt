@@ -1,4 +1,4 @@
-=== Wolfram|Alpha Widget Plugin ===
+=== Wolfram|Alpha Widget Sidebar Plugin ===
 Contributors: wolframalpha
 Tags: 
 Requires at least: 2.2
