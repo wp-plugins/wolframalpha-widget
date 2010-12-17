@@ -1,10 +1,10 @@
 <?php
 /*
  Plugin Name: Wolfram|Alpha Widget
- Plugin URI: http://products.wolframalpha.com/api/widgets
+ Plugin URI: http://developer.wolframalpha.com/widgets
  Description: Embed live, interactive computational knowledge into your WordPress site with the Wolfram|Alpha Widget plugin.
  Author: Wolfram|Alpha
- Author URI: http://www.wolframalpha.com
+ Author URI: http://developer.wolframalpha.com
  Version: 1.0
 */
 
